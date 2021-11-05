@@ -1,0 +1,22 @@
+{
+  "name": "helisim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "darkgraycat",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "webpack": "^5.62.1",
+    "webpack-cli": "^4.9.1",
+    "@types/three": "^0.133.1"
+  },
+  "dependencies": {
+    "three": "^0.134.0"
+  }
+}
